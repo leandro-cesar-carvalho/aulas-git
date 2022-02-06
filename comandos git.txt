@@ -14,4 +14,9 @@ git remote add origin https://github.com/leandro-cesar-carvalho/aulas-git -> Def
 
 git push --set-upstream origin master -> Envia os arquivos para a versão master do repositório
 
+git push -> insere no repositório
+
 git reflog -> Mostra todo os históricos de versões até o momento, no qual a versão no topo é a mais recente
+
+
+kdasniuvjshdgisdlhvoisughdisughdsoiuh
