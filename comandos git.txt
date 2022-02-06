@@ -18,5 +18,4 @@ git push -> insere no repositório
 
 git reflog -> Mostra todo os históricos de versões até o momento, no qual a versão no topo é a mais recente
 
-
-kdasniuvjshdgisdlhvoisughdisughdsoiuh
+git reset --hard id -> reseta a versão master para a versão do commit do id especificado
