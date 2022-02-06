@@ -10,3 +10,5 @@ git config --global user.email "seu e-mail" -|
 					     | -> Realizar configurações de e-mail e nome para a versão
 git config --global user.name "seu nome"    -|
 
+git remote add origin https://github.com/leandro-cesar-carvalho/aulas-git
+ -> Definir o caminho para onde os códigos serão enviados
