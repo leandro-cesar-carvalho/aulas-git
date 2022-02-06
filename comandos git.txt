@@ -3,3 +3,10 @@ git status -> verificar status de arquivos e controle de versões
 git add "nome do arquivo" -> adicionar um arquivo específico pelo nome ao controle de versões
 
 git add . -> adicionar todos os arquivos da pasta em um único comando
+
+git commit -m "Especificar alterações realizadas" -> realizar um commit e especificar todas as alterações feitas no arquivo durante o commit
+
+git config --global user.email "seu e-mail" -|
+					     | -> Realizar configurações de e-mail e nome para a versão
+git config --global user.name "seu nome"    -|
+
