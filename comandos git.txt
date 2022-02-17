@@ -19,3 +19,9 @@ git push -> insere no repositório
 git reflog -> Mostra todo os históricos de versões até o momento, no qual a versão no topo é a mais recente
 
 git reset --hard id -> reseta a versão master para a versão do commit do id especificado
+
+git branch -> Verifica todas as branchs disponíveis no momento
+
+git branch teste1 -> Cria uma branch com o nome informado
+
+git checkout teste1
