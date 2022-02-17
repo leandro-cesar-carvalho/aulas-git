@@ -24,4 +24,6 @@ git branch -> Verifica todas as branchs disponíveis no momento
 
 git branch teste1 -> Cria uma branch com o nome informado
 
-git checkout teste1
+git checkout teste1 -> Define a branch como selecionada no momento
+
+git merge teste1 -> após realizar o comando checkout para voltar na branch master, utilizar o comando merge para mesclar as alterações na branch teste1 dentro da branch master
