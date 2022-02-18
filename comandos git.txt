@@ -26,4 +26,6 @@ git branch teste1 -> Cria uma branch com o nome informado
 
 git checkout teste1 -> Define a branch como selecionada no momento
 
+git pull -> Traz atualizações da branch com o código mais recente para a máquina local (boa prática antes de realizar um merge na branch master)
+
 git merge teste1 -> após realizar o comando checkout para voltar na branch master, utilizar o comando merge para mesclar as alterações na branch teste1 dentro da branch master
