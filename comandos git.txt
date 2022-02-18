@@ -37,3 +37,5 @@ Processo a ser seguido no uso de Branchs
 4. Finalizar funcionalidade na branch
 5. Git Merge após selecionar branch Master para juntar branch o código da branch paralela
 6. Git Push da Branch Master para finalizar
+
+touch .gitignore -> irá criar um arquivo .gitignore para adicionar pastas e arquivos que devem ser ocultos
